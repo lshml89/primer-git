@@ -1,3 +1,3 @@
 <?php
-echo "Eliminar tabla proveedor";
+echo "Eliminar tabla clientes";
 ?>
