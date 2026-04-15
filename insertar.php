@@ -1,3 +1,3 @@
 <?php
-echo "Insertar tabla proveedor";
+echo "Insertar tabla clientes";
 ?>
